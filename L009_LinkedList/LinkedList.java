@@ -1,4 +1,5 @@
 public class LinkedList {
+    //node
     private class Node {
         int data = 0;
         Node next = null;
